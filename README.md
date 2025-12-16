@@ -47,12 +47,6 @@ Minimum SDK: API 21 — Supports Android 5.0+
 
 🚀 How to Run
 
-Clone the repository:
-
-git clone https://github.com/YourUsername/Smart-BMI-Calculator.git
-
-
 Open the project in Android Studio
 
 Build & run on an emulator or real device (API 21+)
-
