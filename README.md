@@ -23,6 +23,21 @@ Designed with a clean, modern interface and smart backend logic, this app makes 
 
 🎨 Clean & Modern UI — Sleek, interactive, and responsive design
 
+# 📱 Smart BMI Calculator
+
+An **interactive and user-friendly Android app** that helps users calculate their **Body Mass Index (BMI)** quickly, accurately, and effortlessly.  
+With a **modern, clean, and responsive interface**, this app not only calculates BMI but also gives **personalized health insights** to help users understand their fitness level at a glance.  
+
+Whether you’re tracking your health, monitoring weight goals, or just curious about your BMI, **Smart BMI Calculator** makes it **fun, intuitive, and informative**.  
+
+This project demonstrates:  
+- **Interactive UI Design** – smooth sliders, buttons, and animations for seamless user experience  
+- **Smart Backend Logic** – instant calculations with dynamic results  
+- **Lightweight & Efficient App Design** – optimized for Android 5.0+ devices  
+
+With **Smart BMI Calculator**, users get more than numbers—they get an **insightful, interactive, and visually appealing health tracking tool** in their pocket.
+
+
 💡 How it Works (Backend)
 
 Even though it’s lightweight, the backend logic is clever and efficient:
