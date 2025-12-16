@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartBMICalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Dark background immediately on launch -->
+
+        <item name="android:windowBackground">#0F1220</item>
+        <item name="colorPrimary">#E91E63</item> <!-- pink for accents/buttons -->
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#0F1220</item> <!-- same dark color -->
+
+
+    </style>
+
+
+    <style name="Theme.SmartBMICalculator" parent="Base.Theme.SmartBMICalculator" />
+
+
+
+
+</resources>
