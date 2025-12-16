@@ -7,7 +7,7 @@ Designed with a clean, modern interface and smart backend logic, this app makes 
 📸 Preview
 
 
-![Screenshot]()  
+![Screenshot](https://github.com/belalhossain69/Smart-BMI-Calculator/blob/master/1000034856.jpg?raw=true)  
 
 ✨ Features
 
